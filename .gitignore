@@ -1,1 +1,6 @@
 .vscode
+.idea
+*.exe
+./go-server
+
+test
